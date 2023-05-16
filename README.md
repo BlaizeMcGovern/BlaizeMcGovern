@@ -1,6 +1,6 @@
 ![Blaize's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlaizeMcGovern&show_icons=true&theme=tokyonight&count_private=true)
 ### Hi there 👋
-Welcome to my GitHub profile! I am currently working as a software developer intern at Areto Labs, where my primary focus is making digital communities safer using ML and bots. Additionally, I am pursuing a degree in Computer Science at UVic with a special interest in cyber security.
+Welcome to my GitHub profile! I am currently working as a software developer intern at Areto Labs, where my primary focus is making digital communities safer using ML and bots. Additionally, I am pursuing a degree in Computer Science at University of Victoria with a special interest in cyber security.
 <!--
 **BlaizeMcGovern/BlaizeMcGovern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
