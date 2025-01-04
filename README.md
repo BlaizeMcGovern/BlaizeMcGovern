@@ -1,4 +1,3 @@
-![Blaize's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlaizeMcGovern&show_icons=true&theme=synthwave&count_private=true)
 ### Hi there 👋
 Welcome to my GitHub profile! I am currently working as a software developer intern at 🍋Areto Labs🍋, where we make digital communities safer using ML and bots. Additionally, I am pursuing a degree in Computer Science at University of Victoria with a special interest in cyber security.
 <!--
