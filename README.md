@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my GitHub profile! I am currently a Computer Science student at the University of Victoria with a special interest in cyber security.
+Welcome to my GitHub profile! I am currently a Computer Science student at the University of Victoria with a focus on cyber security.
 <!--
 **BlaizeMcGovern/BlaizeMcGovern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
